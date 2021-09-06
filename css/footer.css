@@ -1,0 +1,107 @@
+/*=======================================
+Section - Footer
+========================================*/
+.footer-top{
+    background-color: #333;
+    font-size: 16px;
+    color: #888;
+    font-weight: 300;
+    padding-top: 30px;
+
+    
+}
+
+.footer-top h4{
+    color: orangered;
+    font-size: 26px;
+    font-weight: 300;
+    margin-bottom: 30px;
+    margin-left: 25%;
+}
+
+.footer-top h5{
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.move-right{
+    float: right;
+    margin-left: 40%;
+
+}
+.icon{
+    float: right;
+    margin-right: 11%;
+
+}
+
+.footer-top h5 span{
+    font-weight: 300;
+}
+
+.footer-nav{
+    list-style: none;
+}
+
+.footer-top ul li a:link,
+.footer-top ul li a:visited{
+    color: #888;
+    text-decoration: none;
+    transition: 0.4s;
+    margin-left: 15%;
+
+}
+
+.footer-top ul li a:hover,
+.footer-top ul li a:active{
+    color: red;
+
+}
+
+.footer-s-3 .title{
+    margin-left: 10%;
+}
+
+.title h4 a{
+    text-decoration: none;
+
+}
+
+.footer-top .footer-s-3 ul{
+    margin-left: 20%;
+}
+
+.footer-top .footer-s-3 ul li{
+    margin-top: 10px;
+    list-style: none;
+    display: inline-block;
+    margin-left: 30px;
+
+}
+
+.copyrights{
+    background-color: rgb(19, 18, 18);
+    font-size: 16px;
+    color: rgb(241, 89, 18);
+    font-weight: 400;
+
+}
+
+.copyrights p{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.logo-footer{
+    width: 130px;
+    height: auto;
+    text-align: left;
+    margin-top: 5px;
+}
+
+address{
+    margin-top: 25px;
+}
+
