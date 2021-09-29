@@ -95,10 +95,10 @@ Section - Footer
 }
 
 .logo-footer{
-    width: 130px;
+    width: 60px;
     height: auto;
     text-align: left;
-    margin-top: 5px;
+    margin-top: 1px;
 }
 
 address{
