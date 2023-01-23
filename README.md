@@ -10,3 +10,5 @@ Language: HTML/CSS/ JavaScript
 
 
 Note: Start with Index.html page. 
+
+![IMG](https://www.ruchirabandara.com/images/blinkee.JPG)
